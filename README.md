@@ -1,6 +1,6 @@
 # Multithreading_python
 
-## How to run th program
+## How to run the program
 
 Run the _main.py_ script to realise the entire program. To see the step by step program, run _copy_files.copy()_ then _archive_files.archive()_.
 
